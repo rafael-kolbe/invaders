@@ -1,6 +1,11 @@
-# invaders
-Rust project made from the /cleancut course on Udemy.
+# Invaders
 
-# running
+This is a Rust project created during the /cleancut course on Udemy.
+
+## Running
+
+To build the project, open your terminal and run the following commands:
+
+```bash
 cargo build && cargo build --release
 cargo run
